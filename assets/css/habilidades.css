@@ -15,6 +15,7 @@
     max-width: 552px;
     line-height: 160%;
     margin-right: 48px;
+    padding-bottom: 30px;
 }
 
 .habilidades__corpo {
@@ -118,7 +119,7 @@
 
 .habilidades__card--botao {
     background: none;
-    border-color: var(--branco);
+    border-color: black;
     color: var(--branco);
     width: 100%;
 }
@@ -138,8 +139,8 @@
 }
 
 .habilidades__card--principal .habilidades__card--botao  {
-    background-color: var(--branco);
-    color: #3b106b;
+    background-color: black;
+    color: white;
 }
 
 @media screen and (max-width: 1023px) {

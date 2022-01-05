@@ -164,6 +164,8 @@
     line-height: 160%;
     font-size: 18px;
     position: relative;
+    padding-bottom: 60px;
+    padding-top: 30px;
 }
 
 .sobre__quote--texto::before {
