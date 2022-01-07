@@ -6,7 +6,7 @@
     position: relative;
     display: grid;
     grid-template-columns: 1fr 1124px 1fr;
-    background: url(../../assets/img/alinesilv.png) no-repeat fixed;
+    background: url(../../assets/img/photoshopada.jpg) no-repeat fixed;
     background-position: calc(50% + 360px) 120px;
 }
 
