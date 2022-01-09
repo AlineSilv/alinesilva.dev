@@ -103,10 +103,6 @@
     background-image: url(../img/icons/techs/gradient/figma.svg);
 }
 
-/*.projetos__techs--item:nth-of-type(5) {
-    background-image: url(../img/icons/techs/gradient/trello.svg);
-}*/
-
 .projetos__techs--item:nth-of-type(5) {
     background-image: url(../img/icons/techs/gradient/github.svg);
 }
@@ -139,7 +135,7 @@
     border-radius: 4px;
     margin: 0 32px;
     width: 480px;
-    height: 246px;
+    height: 24px;
     overflow: hidden;
 }
 
