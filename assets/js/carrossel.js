@@ -26,12 +26,12 @@ function carrosselInit() {
                     "Website do Marmitadog, um projeto fantástico que mobiliza pessoas e realiza ações para cães de rua.",
             },*/
             {
-                titulo: "Sath Finance",
-                link: "https://sathfinance.vercel.app/",
+                titulo: "Téspis | Usuário",
+                link: "https://tespis.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Este Website é voltado para o planejamento e controle constante de rotinas fincanceiras."
-            },
+                    "Este site contém página de cadastro, login e uma página de usuário, ambos com backend integrado, o projeto em si está ainda em desenvolvimento com bastante conteúdo em planejamento, embora ainda nas interações de usuário já possuímos uma extensa videoteca, reunindo seleções de filmes e mais informações."
+                },
            /* {
                 titulo: "Marmitadog | Usuário",
                 link: "https://marmitadog.vercel.app/",
@@ -40,13 +40,14 @@ function carrosselInit() {
                     'Telas de Usuário do projeto Marmitadog.',
             },*/
             {
-                titulo: "Téspis | Usuário",
-                link: "https://tespis.vercel.app/",
-                repositorio: "https://github.com/AlineSilv",
-                detalhes:
-                    "Este site contém página de cadastro, login e uma página de usuário, ambos com backend integrado, o projeto em si está ainda em desenvolvimento com bastante conteúdo em planejamento, embora ainda nas interações de usuário já possuímos uma extensa videoteca, reunindo seleções de filmes e mais informações."
+                titulo: "Sath Finance",
+            link: "https://sathfinance.vercel.app/",
+            repositorio: "https://github.com/AlineSilv",
+            detalhes:
+                "Este Website é voltado para o planejamento e controle constante de rotinas fincanceiras."
 
             },
+            
         ],
     };
 
