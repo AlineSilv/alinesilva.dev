@@ -11,40 +11,40 @@ function carrosselInit() {
 
     const dados = {
         projetos: [
-            {
+            /*{
                 titulo: "Téspis",
                 link: "https://tespis.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
                     "Um organizador de filmes o Téspis, conta com monstruários, informativos sobre várias coleções de gêneros, diretores ou produtoras.",
-            },
-            {
+            },*/
+           /* {
                 titulo: "Marmitadog",
                 link: "https://marmitadog.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
                     "Website do Marmitadog, um projeto fantástico que mobiliza pessoas e realiza ações para cães de rua.",
-            },
+            },*/
             {
-                titulo: "FinanceOn",
-                link: "https://financeon.vercel.app/",
+                titulo: "Sath Finance",
+                link: "https://sathfinance.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Website voltado para organizar finanças, com objetivo de faciliatar a rotina e evitar desvios no planejamento mensal.",
+                    "Este Website é voltado para o planejamento e controle constante de rotinas fincanceiras."
             },
-            {
+           /* {
                 titulo: "Marmitadog | Usuário",
                 link: "https://marmitadog.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
                     'Telas de Usuário do projeto Marmitadog.',
-            },
+            },*/
             {
                 titulo: "Téspis | Usuário",
                 link: "https://tespis.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Páginas de usuário do Téspis (backend integrado).",
+                    "Este site contém página de cadastro, login e as paginas de usuário, com backend integrado. Já nas interações de usuário temos uma extensa videoteca, reunindo filmes  e mais informações."
             },
         ],
     };
