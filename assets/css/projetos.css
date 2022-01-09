@@ -107,7 +107,7 @@
     background-image: url(../img/icons/techs/gradient/trello.svg);
 }*/
 
-.projetos__techs--item:nth-of-type(6) {
+.projetos__techs--item:nth-of-type(5) {
     background-image: url(../img/icons/techs/gradient/github.svg);
 }
 
