@@ -44,7 +44,8 @@ function carrosselInit() {
                 link: "https://tespis.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Este site contém página de cadastro, login e as paginas de usuário, com backend integrado. Já nas interações de usuário temos uma extensa videoteca, reunindo filmes  e mais informações."
+                    "Este site contém página de cadastro, login e uma página de usuário, ambos com backend integrado, o projeto em si está ainda em desenvolvimento com bastante conteúdo em planejamento, embora ainda nas interações de usuário já possuímos uma extensa videoteca, reunindo seleções de filmes e mais informações."
+
             },
         ],
     };
