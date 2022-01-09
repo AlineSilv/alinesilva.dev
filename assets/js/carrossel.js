@@ -28,7 +28,7 @@ function carrosselInit() {
             {
                 titulo: "Téspis | Usuário",
                 link: "https://tespis.vercel.app/",
-                repositorio: "https://github.com/AlineSilv",
+                repositorio: "https://github.com/AlineSilv/streaming",
                 detalhes:
                     "Este site contém página de cadastro, login e uma página de usuário, ambos com backend integrado, o projeto em si está ainda em desenvolvimento com bastante conteúdo em planejamento, embora ainda nas interações de usuário já possuímos uma extensa videoteca, reunindo seleções de filmes e mais informações."
                 },
@@ -42,7 +42,7 @@ function carrosselInit() {
             {
                 titulo: "Sath Finance",
             link: "https://sathfinance.vercel.app/",
-            repositorio: "https://github.com/AlineSilv",
+            repositorio: "https://github.com/AlineSilv/sathfinance",
             detalhes:
                 "Este Website é voltado para o planejamento e controle constante de rotinas fincanceiras."
 
