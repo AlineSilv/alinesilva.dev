@@ -126,7 +126,7 @@
     }
 
     .caixa-botao > .botao-secundario {
-        background-image: url(../../assets/img/apetrechos/botao767.png);
+       /* background-image: url(../../assets/img/apetrechos/botao767.png);*/
         margin-left: 8px;
     }
 
