@@ -82,14 +82,14 @@
 }
 
 .cabecalho__link--habilidades::before {
-    background-image: url(../../assets/img/icons/lamp.svg);
+    background-image: url(../../assets/img/icons/lamp.png);
     width: 20px;
     height: 20px;
     top: -1px;
 }
 
 .cabecalho__link--projetos::before {
-    background-image: url(../../assets/img/icons/layer.svg);
+    background-image: url(../../assets/img/icons/layer.png);
     width: 20px;
     height: 20px;
 }
