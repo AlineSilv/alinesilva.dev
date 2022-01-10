@@ -128,6 +128,7 @@
     .caixa-botao > .botao-secundario {
        /* background-image: url(../../assets/img/apetrechos/botao767.png);*/
         margin-left: 8px;
+        background-color:linear-gradient(45deg, #7e41ce 0%, #cf49db 100%); 
     }
 
     .titulo-secao {
