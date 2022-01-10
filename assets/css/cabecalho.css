@@ -30,7 +30,7 @@
     width: 150px;
     /*background-image: url(../../assets/img/apetrechos/botao-contato.png);*/
     filter: drop-shadow(rgba(0, 0, 0, 0.16) 0px 1px 1px), brightness(0);
-    background: linear-gradient(45deg, #4d09a5 0%, #aa07b9 100%); 
+    background: linear-gradient(45deg, #4d09a567 0%, #aa07b95b 100%); 
     line-height: 12px;
     box-sizing: border-box;
     font-weight: 600;
