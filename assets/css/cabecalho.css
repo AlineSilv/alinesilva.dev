@@ -99,7 +99,7 @@
 }
 
 .cabecalho__link--contato::before {
-    /*background-image: url(../../assets/img/icons/contato.svg);*/
+    background-image: url(../../assets/img/icons/email.svg);
     width: 21px;
     height: 18px;
     transition: .5s ease all; 
