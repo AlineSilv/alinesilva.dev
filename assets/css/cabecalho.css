@@ -31,6 +31,10 @@
     /*background-image: url(../../assets/img/apetrechos/botao-contato.png);*/
     filter: drop-shadow(rgba(0, 0, 0, 0.16) 0px 1px 1px), brightness(0);
     background:linear-gradient(40deg, #ec55ad70 0%rgba(224, 67, 238, 0.247)db 100%); 
+    line-height: 12px;
+    box-sizing: border-box;
+    font-weight: 600;
+    border: 2px solid transparent;
 }
 
 .texto-contato {
