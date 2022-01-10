@@ -27,7 +27,7 @@
     box-sizing: border-box;
     font-weight: 600;
     border: 2px solid transparent;
-    background: url(../img/apetrechos/botao.png) no-repeat center / cover;
+   /* background: url(../img/apetrechos/botao.png) no-repeat center / cover;*/
 }
 
 .caixa-botao > .botao {
