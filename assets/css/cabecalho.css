@@ -28,7 +28,7 @@
 
 .botao-contato {
     width: 150px;
-    /*background-image: url(../../assets/img/apetrechos/botao-contato.png);*/
+    background-image: url(../../assets/img/apetrechos/botao-contato.png);
     filter: drop-shadow(rgba(0, 0, 0, 0.16) 0px 1px 1px), brightness(0);
 }
 
@@ -82,14 +82,14 @@
 }
 
 .cabecalho__link--habilidades::before {
-    background-image: url(../../assets/img/icons/lamp.png);
+    background-image: url(../../assets/img/icons/habilidades.svg);
     width: 20px;
     height: 20px;
     top: -1px;
 }
 
 .cabecalho__link--projetos::before {
-    background-image: url(../../assets/img/icons/layer.png);
+    background-image: url(../../assets/img/icons/projetos.svg);
     width: 20px;
     height: 20px;
 }
