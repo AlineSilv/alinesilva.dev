@@ -39,6 +39,15 @@ function carrosselInit() {
                 detalhes:
                     'Telas de Usuário do projeto Marmitadog.',
             },*/
+
+            {
+                titulo: "Boca Doce | Usuário",
+                link: "https://bocadoce.vercel.app/",
+                repositorio: "https://github.com/AlineSilv",
+                detalhes:
+                    'Telas de Usuário do projeto Boca Doce, projeto feito por mim e doado a uma organização real.',
+            },
+
             {
                 titulo: "Sath Finance",
             link: "https://sathfinance.vercel.app/",
