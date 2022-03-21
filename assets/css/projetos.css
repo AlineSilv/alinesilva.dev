@@ -116,7 +116,7 @@
 }
 
 .projetos__projeto--detalhes {
-    max-width: 400px;
+    max-width: 410px;
     line-height: 160%;
     margin: 32px 0;
 }
@@ -134,7 +134,7 @@
     border: 4px solid var(--branco);
     border-radius: 4px;
     margin: 0 32px;
-    width: 480px;
+    width: 450px;
     height: 247px;
     overflow: hidden;
 }
