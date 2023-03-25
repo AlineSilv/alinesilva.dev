@@ -16,21 +16,21 @@ function carrosselInit() {
                 link: "https://tespis.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Um organizador de filmes o Téspis, conta com monstruários, informativos sobre várias coleções de gêneros, diretores ou produtoras.",
+                    "A film organizer, Thespis, has showcases, information on various collections of genres, directors or production companies.",
             },*/
            /* {
                 titulo: "Marmitadog",
                 link: "https://marmitadog.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    "Website do Marmitadog, um projeto fantástico que mobiliza pessoas e realiza ações para cães de rua.",
+                    "Marmitadog website, a fantastic project that mobilizes people and carries out actions for street dogs.",
             },*/
             {
                 titulo: "Téspis | Usuário",
                 link: "https://tespis.vercel.app/user/index.html",
                 repositorio: "https://github.com/AlineSilv/streaming",
                 detalhes:
-                    "Este site contém página de cadastro, login e uma página de usuário, ambos com backend integrado, o projeto em si está ainda em desenvolvimento com bastante conteúdo em planejamento, embora ainda nas interações de usuário já possuímos uma extensa videoteca, reunindo seleções de filmes e mais informações."
+                    "This site contains a registration page, login and a user page, both with an integrated backend, the project itself is still under development with a lot of content in planning, although in terms of user interactions we already have an extensive video library, gathering selections of films and more information."
                 },
            /* {
                 titulo: "Marmitadog | Usuário",
@@ -45,7 +45,7 @@ function carrosselInit() {
                 link: "https://bocadoce.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
                 detalhes:
-                    'Telas de Usuário do projeto Boca Doce, projeto feito por mim e doado a uma organização real.',
+                    'User screens of the Boca Doce project, project made by me and donated to a real organization.',
             },
 
             {
@@ -53,7 +53,7 @@ function carrosselInit() {
             link: "https://sathfinance.vercel.app/",
             repositorio: "https://github.com/AlineSilv/sathfinance",
             detalhes:
-                "Este Website é voltado para o planejamento e controle constante de rotinas fincanceiras."
+                "This Website is aimed at the planning and constant control of financial routines."
 
             },
             
