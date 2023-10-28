@@ -32,15 +32,15 @@ function carrosselInit() {
                 detalhes:
                     "This site contains a registration page, login and a user page, both with an integrated backend, the project itself is still under development with a lot of content in planning, although in terms of user interactions we already have an extensive video library, gathering selections of films and more information."
                 },
-           /* {
-                titulo: "Marmitadog | Usuário",
-                link: "https://marmitadog.vercel.app/",
-                repositorio: "https://github.com/AlineSilv",
-                detalhes:
-                    'Telas de Usuário do projeto Marmitadog.',
-            },*/
-
             {
+                titulo: "Gerenciador de Lembretes | Usuário",
+                link: "https://marmitadog.vercel.app/",
+                repositorio: "https://github.com/TaskManagerApp",
+                detalhes:
+                    'Local web application to manage and edit tasks. Using editing, deletion and addition, you can organize your tasks locally by date. ',
+            },
+
+            /*{
                 titulo: "Boca Doce | Usuário",
                 link: "https://bocadoce.vercel.app/",
                 repositorio: "https://github.com/AlineSilv",
@@ -55,7 +55,7 @@ function carrosselInit() {
             detalhes:
                 "This Website is aimed at the planning and constant control of financial routines."
 
-            },
+            },*/
             
         ],
     };
