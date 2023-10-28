@@ -34,7 +34,7 @@ function carrosselInit() {
                 },
             {
                 titulo: "Gerenciador de Lembretes | Usuário",
-                link: "https://marmitadog.vercel.app/",
+                link: "https://desabilitado.vercel.app/",
                 repositorio: "https://github.com/TaskManagerApp",
                 detalhes:
                     'Local web application to manage and edit tasks. Using editing, deletion and addition, you can organize your tasks locally by date. ',
