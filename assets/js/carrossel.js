@@ -35,7 +35,7 @@ function carrosselInit() {
             {
                 titulo: "Task Manager | User",
                 link: "https://desabilitado.vercel.app/",
-                repositorio: "https://github.com/TaskManagerApp",
+                repositorio: "https://github.com/AlineSilv/TaskManagerApp",
                 detalhes:
                     'Local web application to manage and edit tasks. Using editing, deletion and addition, you can organize your tasks locally by date. ',
             },
