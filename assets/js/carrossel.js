@@ -26,14 +26,14 @@ function carrosselInit() {
                     "Marmitadog website, a fantastic project that mobilizes people and carries out actions for street dogs.",
             },*/
             {
-                titulo: "Téspis | Usuário",
+                titulo: "Téspis | User",
                 link: "https://tespis.vercel.app/user/index.html",
                 repositorio: "https://github.com/AlineSilv/streaming",
                 detalhes:
                     "This site contains a registration page, login and a user page, both with an integrated backend, the project itself is still under development with a lot of content in planning, although in terms of user interactions we already have an extensive video library, gathering selections of films and more information."
                 },
             {
-                titulo: "Gerenciador de Lembretes | Usuário",
+                titulo: "Task Manager | User",
                 link: "https://desabilitado.vercel.app/",
                 repositorio: "https://github.com/TaskManagerApp",
                 detalhes:
