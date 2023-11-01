@@ -31,21 +31,22 @@ function carrosselInit() {
                 repositorio: "https://github.com/AlineSilv/streaming",
                 detalhes:
                     "This site contains a registration page, login and a user page, both with an integrated backend, the project itself is still under development with a lot of content in planning, although in terms of user interactions we already have an extensive video library, gathering selections of films and more information."
-                },
+            },
+
+            {
+                titulo: "Track Manager | App",
+                link: "https://desabilitado.vercel.app/",
+                repositorio: "https://github.com/AlineSilv/ProductivityApp",
+                detalhes:
+                    'Uma visão geral do aplicativo que ainda passa por codificações, veja mais informações no repositório.',
+            },
+            
             {
                 titulo: "Task Manager | User",
                 link: "https://desabilitado.vercel.app/",
                 repositorio: "https://github.com/AlineSilv/TaskManagerApp",
                 detalhes:
                     'Local web application to manage and edit tasks. Using editing, deletion and addition, you can organize your tasks locally by date. ',
-            },
-
-            /*{
-                titulo: "Boca Doce | Usuário",
-                link: "https://bocadoce.vercel.app/",
-                repositorio: "https://github.com/AlineSilv",
-                detalhes:
-                    'User screens of the Boca Doce project, project made by me and donated to a real organization.',
             },
 
             {
